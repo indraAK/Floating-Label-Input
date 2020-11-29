@@ -109,3 +109,9 @@ body {
 .form .btn:hover {
    background-color: #005fc4;
 }
+
+@media screen and (max-width: 414px) {
+   .form {
+      padding: 30px 15px;
+   }
+}
